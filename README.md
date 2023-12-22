@@ -3,6 +3,6 @@ Figure 1, 2, 3, 4, 5, 6, S1, S2, S3, S4, S5 and S6 were the origin R codes for o
 
 WGS_pipeline.sh is the pipeline we deal with the WGS sample.
 
-itools is the codes we statics the bam files by iTools Xamtools
+itools and bam_stat.sh is the codes we statics the bam files by iTools Xamtools and samtools.
 
 umap_data.py is the python codes to deal with the bi-allelic SNPs to run PCA, TSNE and UMAP.
