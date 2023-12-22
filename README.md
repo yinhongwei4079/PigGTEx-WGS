@@ -10,3 +10,5 @@ umap_data.py is the python codes to deal with the bi-allelic SNPs to run PCA, TS
 select_ancestral_allel.py
 
 annotate_binary_snp was the codes to annotate the bi-allelic SNPs with CooVar, SNPEFF, VEP and pCADD.
+
+generate_tf_select.sh was the codes to generate the TF based on ATAC-seq by Hommer2.
