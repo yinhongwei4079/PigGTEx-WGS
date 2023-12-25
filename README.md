@@ -7,7 +7,9 @@ itools.sh and bam_stat.sh is the codes we statics the bam files by iTools Xamtoo
 
 umap_data.py is the python codes to deal with the bi-allelic SNPs to run PCA, TSNE and UMAP.
 
-select_ancestral_allel.py
+select_ancestral_allel.py is the python codes that we identified the ancestral allele based on method of Bianco, E(A deep catalog of autosomal single nucleotide variation in the pig).
+
+add_ancestral.vcf.sh is codes that we added the anceatral allele to VCF file with bcftools.
 
 annotate_binary_snp was the codes to annotate the bi-allelic SNPs with CooVar, SNPEFF, VEP and pCADD.
 
