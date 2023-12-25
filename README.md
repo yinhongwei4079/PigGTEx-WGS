@@ -16,3 +16,5 @@ annotate_binary_snp was the codes to annotate the bi-allelic SNPs with CooVar, S
 generate_tf_select.sh was the codes to generate the TF based on ATAC-seq by Hommer2.
 
 fgwas.sh is the codes to run gwas enrichment based on fgwas.
+
+run_enrichment_esQTL.sh is the shell codes to run esQTL enrichment.
