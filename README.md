@@ -14,3 +14,5 @@ add_ancestral.vcf.sh is codes that we added the anceatral allele to VCF file wit
 annotate_binary_snp was the codes to annotate the bi-allelic SNPs with CooVar, SNPEFF, VEP and pCADD.
 
 generate_tf_select.sh was the codes to generate the TF based on ATAC-seq by Hommer2.
+
+fgwas.sh is the codes to run gwas enrichment based on fgwas.
