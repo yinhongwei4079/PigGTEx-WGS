@@ -18,3 +18,5 @@ generate_tf_select.sh was the codes to generate the TF based on ATAC-seq by Homm
 fgwas.sh is the codes to run gwas enrichment based on fgwas.
 
 run_enrichment_esQTL.sh is the shell codes to run esQTL enrichment.
+
+basenji.sh is the codes to run basenji model.
